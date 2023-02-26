@@ -197,6 +197,16 @@ html, body {
   color: #ce3192;
 }
 
+.back {
+  position: relative;
+  top: 100px;
+  color: #ce3192;
+}
+.back:hover {
+  color: #2a0b3b;
+  border-bottom: 1px solid #2a0b3b;
+}
+
 .product {
   display: flex;
   justify-content: space-between;
